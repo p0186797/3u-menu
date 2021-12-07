@@ -1,6 +1,6 @@
 # 3u-menu
 
-Fraction Calculator.
+Fraction Calculator
 ---
 
 Create the below functions according to the specifications, complete with docstrings.
@@ -22,9 +22,9 @@ A fraction is the form **x, y** that represents the simplified result of the sum
 **Sample Calls**
 ```
 >>> add(4, 3, -3, 5)
-11, 15
+(11, 15)
 >>> add(1, -4, 2, 3)
-5, 12
+(5, 12)
 ```
 ---------
 
@@ -39,9 +39,9 @@ A fraction is the form **x, y** that represents the simplified result of the dif
 **Sample Calls**
 ```
 >>> subtract(4, 3, -3, 5)
-29, 15
+(29, 15)
 >>> subtract(1, -4, 2, 3)
--1, 12
+(-11, 12)
 ```
 ---------
 
@@ -57,9 +57,9 @@ A fraction is the form **x, y** that represents the simplified result of the pro
 **Sample Calls**
 ```
 >>> multiply(4, 3, -3, 5)
--4, 5
+(-4, 5)
 >>> multiply(1, -4, 2, 3)
--1, 6
+(-1, 6)
 ```
 
 ---------
@@ -75,9 +75,9 @@ A fraction is the form **x, y** that represents the simplified result of the quo
 **Sample Calls**
 ```
 >>> divide(4, 3, -3, 5)
--20, 9
+(-20, 9)
 >>> divide(1, -4, 2, 3)
--3, 8
+(-3, 8)
 ```
 
 ---------
